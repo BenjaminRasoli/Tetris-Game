@@ -33,6 +33,10 @@ This is a simple Tetris game implemented in C# using WPF (Windows Presentation F
 
 4. Run the application.
 
+### Alternatively
+
+Download the game directly from [Google Drive](https://drive.google.com/drive/folders/1Q-h6CdL8Z7fNnV7_BuMGy24e8OL3n7Kw).
+
 ## Controls
 
 - **Left Arrow**: Move the block to the left.
